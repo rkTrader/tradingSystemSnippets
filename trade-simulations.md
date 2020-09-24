@@ -333,7 +333,7 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](output_19_0[1].png)
 
 
 
@@ -385,7 +385,7 @@ plt.show()
 ```
 
 
-![png](output_24_0.png)
+![png](output_24_0[1].png)
 
 
 
